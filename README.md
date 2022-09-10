@@ -7,7 +7,7 @@ Automating repetitive tasks, improving inefficient processes, and helping others
 
 
 ### 🔭 I’m currently working on <br/>
-https://github.com/bsideproject/palette-api-server
+https://github.com/bsideproject/palette-api-server/tree/develop
 
 ### 🧀 My stacks <br/>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
