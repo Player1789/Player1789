@@ -1,10 +1,9 @@
 ### Hi there 👋
-Hello, I am JHoon. I have product designed/developed/deployed/operated web-based staff management, rostering, and pay-run application. I experienced server-side development and frontend development of production services using tech stacks such as Node js (React, Nest), Java (Spring Boot), Git, PostgreSQL, MySQL, AWS, etc.
+Hello, I am Jhoon. I have product designed/developed/deployed/operated web-based staff management, rostering, and pay-run application. I experienced server-side development and frontend development of production services using tech stacks such as Node js (React, Nest), Java (Spring Boot), Git, PostgreSQL, MySQL, AWS, etc.
 
 I value self-development and learning new things. As an office manager, I voluntarily learned web programming to increase work efficiency and started a development project by myself. This led me to make prototypes, get project approvals, improve the application, and eventually grow it into a solution that plays a vital role in the company. To this day, I am preparing to launch a journal app in September 2022 through a side project using newly learned skills to enhance my development capabilities.
 
 Automating repetitive tasks, improving inefficient processes, and helping others with my skills fulfill me. I reduced our team’s work hours for pay-run by more than 50 hours per week and automated the new staff joining process with the application I developed.
-
 
 
 ### 🔭 I’m currently working on <br/>
